@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Mohammad Ali Shaik",
+      "age": "22",
+      "birthday": "22-04-2002",
+      "state": "Andhra Pradesh",
+      "address": "222",
+      "pin": "515001",
+      "id": 1
+    },
+    {
+      "name": "Lucy",
+      "age": "21",
+      "birthday": "12-04-2001",
+      "state": "Himachal Pradesh",
+      "address": "12232",
+      "pin": "515001",
+      "id": 2
+    }
+  ]
+}
